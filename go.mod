@@ -1,4 +1,4 @@
-module github.com/oiime/logrus-gce
+module github.com/oiime/logrusgce
 
 go 1.16
 
